@@ -1,0 +1,501 @@
+.main{
+    font-family: sans-serif;
+    background-color: 
+    #f7eeed;
+    width: 100%;
+} 
+
+ .abc{
+    text-align: center;
+    margin-left: 30px;
+  
+  
+     
+}
+.abb{
+    width: 640px;
+    margin: 390px;
+    margin-top: 10px;
+  border: 2px solid ;
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px ;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ background-color: white;
+
+   
+
+
+}
+
+.arr{
+    margin-top: 10px;
+    width: 640px;
+    margin: 390px;
+    margin-top: -380px;
+  border: 2px solid ;
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px ;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ background-color: white;
+ 
+}
+.opp{
+    margin-top: 10px;
+    width: 640px;
+    margin: 390px;
+    margin-top: -380px;
+  border: 2px solid ;
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px ;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ background-color: white;
+ 
+}
+.mpp{
+    margin-top: 10px;
+    width: 640px;
+    margin: 390px;
+    margin-top: -380px;
+  border: 2px solid ;
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px ;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ background-color: white;
+}
+.lpp{
+    margin-top: 10px;
+    width: 640px;
+    margin: 390px;
+    margin-top: -380px;
+  border: 2px solid ;
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px ;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ background-color: white;
+}
+.npp{
+    margin-top: 10px;
+    width: 640px;
+    margin: 390px;
+    margin-top: -380px;
+  border: 2px solid ;
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px ;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ background-color: white;
+}
+.zpp{
+    margin-top: 10px;
+    width: 640px;
+    margin: 390px;
+    margin-top: -380px;
+  border: 2px solid ;
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px ;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ background-color: white;
+}
+.done{
+    text-align: center;
+    margin-top: -370px;
+    margin-right: 560px;
+    
+    
+}
+.good{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.bbb{
+    text-align: center;
+
+}
+.in{
+  margin-left: 10px;
+ border: none;
+ outline: none;
+ background: none;
+ 
+}
+.side{
+  text-align: center;
+}
+
+
+@media only screen and (max-width: 800px) {
+  
+  .abb{
+    width: 600px;
+    margin-left: 100px;
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .abb{
+    width: 500px;
+    margin-left: 100px;
+    
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .abb{
+    width: 280px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .abb{
+    width: autopx;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .arr{
+    width: 600px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .arr{
+    width: 500px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .arr{
+    width: 280px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .arr{
+    width: autopx;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .opp{
+    width: 600px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .opp{
+    width: 500px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .opp{
+    width: 280px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .opp{
+    width: autopx;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .mpp{
+    width: 600px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .mpp{
+    width: 500px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .mpp{
+    width: 280px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .mpp{
+    width: autopx;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .lpp{
+    width: 600px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .lpp{
+    width: 500px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .lpp{
+    width: 280px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .lpp{
+    width: autopx;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .npp{
+    width: 600px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .npp{
+    width: 500px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .npp{
+    width: 280px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .npp{
+    width: autopx;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .zpp{
+    width: 600px;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .zpp{
+    width: 500px;
+    
+    margin-left: 100px;
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .zpp{
+    width: 280px;
+    
+    margin-left: 100px;
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .zpp{
+    width: autopx;
+    margin-left: 100px;
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .done{
+    width: 500px;
+    
+
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .done{
+    width: 500px;
+    margin-left: 10px;
+    
+    
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .done{
+    width: 280px;
+    
+    
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .done{
+    width: autopx;
+    
+    
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .good{
+    width: 600px;
+    margin-left: 80px;
+    
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .good{
+    width: 500px;
+    margin-left: 80px;
+    
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .good{
+    width: 280px;
+    margin-left: 80px;
+    
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .good{
+    width: autopx;
+  
+    margin-left: 80px;
+    
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .side{
+    width: 600px;
+    
+    
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .side{
+    width: 500px;
+    
+    
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .side{
+    width: 280px;
+    
+    
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .side{
+    width: autopx;
+  
+    
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .bbb{
+    width: 500px;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 400px) {
+  
+  .bbb{
+    width: 280px;
+    
+    
+}
+}
+@media only screen and (max-width: 800px) {
+  
+  .bbb{
+    width: autopx;
+  
+    
+}
+}
+  
+
+
+
+
